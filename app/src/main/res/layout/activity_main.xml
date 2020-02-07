@@ -19,7 +19,8 @@
         android:layout_width="270dp"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="#ffff"
+        android:background="#03A9F4"
+
         android:layout_gravity="left">
 
         <RelativeLayout
